@@ -21,10 +21,10 @@
   font-size: 50px;
   color: #grey;
 }
-#account1 {
+#checking-account {
   float: left;
 }
-#account2 {
+#savings-account {
   float: right;
 }
 .account {
@@ -43,7 +43,7 @@
 .clear {
   clear: both;
 }
-.zero {
+/* .zero {
   background-color: #F52F4F;
   color: #FFFFFF;
-}
+} */
