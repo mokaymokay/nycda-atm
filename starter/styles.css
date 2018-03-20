@@ -13,26 +13,33 @@
   width: 700px;
   text-align: center;
 }
+
 #nav {
   margin: 50px 0px;
 }
+
 #title {
   font-family: 'Oleo Script', cursive;
   font-size: 50px;
   color: #grey;
+  text-align: center;
 }
+
 #checking-account {
   float: left;
 }
+
 #savings-account {
   float: right;
 }
+
 .account {
   padding: 10px;
   border: 1px solid #295A33;
   background-color: #6C9A74;
   width: 300px;
 }
+
 .balance {
   font-family: 'Ruluko', sans-serif;
   font-size: 50px;
@@ -40,9 +47,11 @@
   background-color: #E3E3E3;
   border: 1px solid #676767;
 }
+
 .clear {
   clear: both;
 }
+
 /* .zero {
   background-color: #F52F4F;
   color: #FFFFFF;
